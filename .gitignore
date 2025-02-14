@@ -25,6 +25,8 @@ coverage
 .next/
 out/
 build
+dist
+
 
 # Debug
 npm-debug.log*
@@ -34,11 +36,3 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
-
-# Python
-*.pyc
-
-# packages
-dist/
-!action/dist/
-.venv

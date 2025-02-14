@@ -1,7 +1,3 @@
 packages:
-  # include
-  # - "packages/**"
-
-  # exclude
-  - "!**/.next/**"
-  - "!**/node_modules/**"
+  - "codinasion"
+  - "codinasion.vercel.app"
